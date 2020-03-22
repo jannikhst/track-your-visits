@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "133441803557",
+    "firebase_url": "https://track-your-visits-app.firebaseio.com",
+    "project_id": "track-your-visits-app",
+    "storage_bucket": "track-your-visits-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:133441803557:android:b16a25c987b1f23b4376cc",
+        "android_client_info": {
+          "package_name": "com.socialoom.track_your_visits.track_your_visits"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "133441803557-bogohlh1la0v0blbkfplrak5eqm6lq36.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqN5nEuiUGd2nuYzniUX-AMw4-eZt1Mzg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "133441803557-bogohlh1la0v0blbkfplrak5eqm6lq36.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
