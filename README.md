@@ -1,5 +1,5 @@
 # WirVsVirus Hackathon
-https://devpost.com/software/trackurvisits
+https://devpost.com/software/trackurvisits | https://wirvsvirus.org/
 
 # Track-Your-Visits
 
